@@ -78,3 +78,6 @@ CSV and Excel files are processed deterministically without the API key.
 
     python3 run_demo.py
     python3 run_tests.py
+
+Dashboard: https://commissionledger.vokrix.co
+Vercel: commissionledger
