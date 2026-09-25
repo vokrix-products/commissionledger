@@ -82,3 +82,4 @@ CSV and Excel files are processed deterministically without the API key.
 Dashboard: https://commissionledger.vokrix.co
 Vercel: commissionledger
 Railway: commissionledger
+Cloudflare: commissionledger.vokrix.co
